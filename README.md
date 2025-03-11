@@ -1,0 +1,1 @@
+Pokedex é uma aplicação desenvolvida para visualizar a lista completa de pokemons da 1º geração. Nela estão sendo utilizados os dados da 'Poke-Api' uma API pública que lista todos os atributos de cada pokemon.
